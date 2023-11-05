@@ -2,9 +2,6 @@
 Technologies used : Next .js _ React _ Mui material
 <br>
 </br>
-Developer: Mohammad Baghani from Iran
-<br>
-</br>
 To see the codes please go to branch master
 <br>
 </br>
