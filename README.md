@@ -1,5 +1,5 @@
 # delvase
-Technologies used : Next .js _ React _ Mui material
+Technologies used : Next.js _ React _ Mui material
 <br>
 </br>
 To see the codes please go to branch master
